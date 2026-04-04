@@ -1,5 +1,5 @@
-# ProgramadorWeb2026-ISPC
-Repositorio ProgramadorWeb2026-ISPC perteneciente a Nicolas Calmucci 
+# ProgramadorWeb y Programador II 2026-ISPC
+Repositorio ProgramadorWeb2026-ISPC perteneciente a Nicolas Calmucci Comision A
 
 # Actividad 1 - Comisión A
 
