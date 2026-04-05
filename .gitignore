@@ -1,0 +1,6 @@
+# Django
+**/Lib/site-packages/
+**/venv/
+**/env/
+db.sqlite3
+*.log
